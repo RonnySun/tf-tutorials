@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Tensorflow\\tf-tutorials\\1_linear_regression\\logs\\linermodel.cpkt"
+all_model_checkpoint_paths: "D:\\Tensorflow\\tf-tutorials\\1_linear_regression\\logs\\linermodel.cpkt"
